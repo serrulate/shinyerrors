@@ -1,0 +1,7 @@
+Uncaught (in promise) RuntimeError: Aborted(CompileError: WebAssembly.instantiate(): expected magic word 00 61 73 6d, found 3c 21 44 4f @+0). Build with -sASSERTIONS for more info.
+    at abort (R.bin.js:1846:31551)
+    at R.bin.js:1846:32957
+
+
+ncaught Error:  : https://okcaodws01.d1.na.ihs.gov/sandbox/shinylive_files/libs/quarto-contrib/shinylive-0.2.3/shinylive/webr/R.bin.data
+    at xhr.onload (R.bin.js:1846:2576)
